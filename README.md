@@ -1,5 +1,5 @@
 ## Hi, I'm Jacob. I'm a coder trying harder.
-github.com/jacobrigal/
+[GitHub portfolio page] (https://github.com/jacobrigal/)
 
 ## Mindsets
 

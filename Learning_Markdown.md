@@ -14,4 +14,4 @@ It should look like this:
 Then hit space and name your list item. Hit return and repeat the process. Remember, no x if it's not done! 
 
 - [x] Learn what brackets are.
-- [ ] Watch the Brak show. 
+- [ ] Watch the Brak show.:laughing: 

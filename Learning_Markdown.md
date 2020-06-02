@@ -39,7 +39,7 @@ And remember, once you master the easy stuff, you can master the harder stuff li
 
 Now this might seem complicated but it's not. All you have to do is find the key that has a vertical line on it above the enter/return key, usally. Hold control and hit that key (on a new line, no spaces). Then on the same line enclose the name of the first column within these lines after a space before and after (called pipes):
 
-| What |
+| What | Why |
 
 That's only the top row that names the columns. To make it look like the top row that tells you what's in the columns, put this on the second line: 
 
@@ -47,7 +47,10 @@ That's only the top row that names the columns. To make it look like the top row
 
 Remember to get the spacing right.  
 
-Now add the columns you need. Just don't add more or less than the number of table headers you defined at the beginning. 
+Now add the columns you need. Just don't add more or less than the number of table headers you defined at the beginning:
+
+|This is a | Organized! |
+| Table | Hip! |
 
 Ok, that's enough. Your tired. Have some OJ or a pear.
 

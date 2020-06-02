@@ -15,3 +15,13 @@ Then hit space and name your list item. Hit return and repeat the process. Remem
 
 - [x] Learn what brackets are.
 - [ ] Watch the Brak show.:laughing: 
+
+Are you wondering how I added that emoji? Just check out this link. This is something you should only do for a trusted link. But it's ok, you can trust me (which is what they all say!):
+
+[Markdown Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/) 
+
+******This is something you should only do for a trusted link. But it's ok, you can trust me:innocent: (which is what they all say!:wink:).*******
+
+FYI I made that security alert really big in Markdown by adding six of the little stars called asterisks * before and after the sentences.
+
+Moving on to links. They simply take you to another page (underlined, blue and clickable ringing a bell?). Use the fun brackets to name the link [link goes here]www.duckduckgo.com, which will actually be hidden on your website.  Feeling brave enough to click it? 

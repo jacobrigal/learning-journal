@@ -18,3 +18,6 @@ Brains and talent are ***just the starting point***. Growth can and will come th
 Final thoughts/reminders: ***"Try harder!  "***
 ***Trying harder is growing.***
 ***Fixed is foolish.***
+
++ list
++ test

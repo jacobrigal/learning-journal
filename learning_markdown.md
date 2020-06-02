@@ -14,16 +14,19 @@ It should look like this:
 Then hit space and name your list item. Hit return and repeat the process. Remember, no x if it's not done! The [x] ends up looking like a checked box: 
 
 - [x] Learn what brackets are.
-- [ ] Watch the Brak show.:laughing: 
+- [ ] Watch the Brak show.
+
+:laughing: 
 
 Are you wondering how I added that emoji? Just check out this link:
 
 [Markdown Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/) 
 
-******You should only click a trusted link. But it's ok, you can trust me 
-:innocent:
-(which is what they all say! :wink:).******
-
+## You should only click a trusted link. But it's ok, you can trust me 
+ :innocent:
+##  (which is what they all say!).
+:wink:
+ 
 FYI I made that super annoying security alert really big in Markdown by adding six of the little stars called asterisks * before and after the sentences.
 
 Moving on to links. They simply take you to another page (underlined, blue and clickable ringing a bell?). Use the fun brackets to name the link [link goes here] then without hitting space put some good old parentheses and paste that link between 'em (www.duckduckgo.com) which will actually be hidden on your website. 

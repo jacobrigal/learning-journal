@@ -1,5 +1,6 @@
 ## Hi, I'm Jacob. I'm a coder trying harder.
 [GitHub portfolio page](https://github.com/jacobrigal)
+[For Markdown Newbies](https://jacobrigal.github.io/learning-journal/learning_markdown.html)
 
 ## Mindsets
 
@@ -15,11 +16,11 @@ It's sort of self explainitory for the pure fact of being fixed. Fundamentally a
 
 Brains and talent are ***just the starting point***. Growth can and will come through sacrifice, focus, helpful criticism. Being smart is not something you are or arn't. You can get smarter!
 
-Final thoughts/reminders: ***"Try harder!  "***
+Final thoughts/reminders:
+> ***"Try harder!  "***
+
 ***Trying harder is growing.***
+
 ***Fixed is foolish.***
 
-+ list
-+ test
 
- `hey`

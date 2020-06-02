@@ -1,4 +1,4 @@
-## Hi, I'm Jacob. I'm a coder trying harder.
+## Hi, I'm Jacob. I'm a security minded coder trying harder. 
 
 [GitHub portfolio page](https://github.com/jacobrigal)
 
@@ -6,25 +6,7 @@
 
 [For Markdown Beginners](https://jacobrigal.github.io/learning-journal/learning_markdown.html)
 
-## Mindsets
-
-**Mindset** is a *self theory*. It sounds ~~very~~ meta but I think it's important to take stock of yourself to honestly grow. 
-
-There are two main mindsets to consider:
- 
-###### Fixed mindset
-
-It's sort of self explanitory for the pure fact of being fixed. Fundamentally a nature above nurture approach. Your intelligence, ability, and growth capacity is viewed as fixed. This person sees themselves as stuck in place! 
-
-# **_Growth mindset_** 
-
-Brains and talent are ***just the starting point***. Growth can and will come through sacrifice, focus, helpful criticism. Being smart is not something you are or arn't. You can get smarter!
-
-Final thoughts/reminders:
 > ***"Try harder!  "***
 
-***Trying harder is growing.***
-
-***Fixed is foolish.***
 
 

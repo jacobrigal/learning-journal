@@ -20,7 +20,7 @@ Are you wondering how I added that emoji? Just check out this link:
 
 [Markdown Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/) 
 
-******TYou should only click a trusted link. But it's ok, you can trust me:innocent: (which is what they all say!:wink:).*******
+******You should only click a trusted link. But it's ok, you can trust me:innocent: (which is what they all say!:wink:).*******
 
 FYI I made that security alert really big in Markdown by adding six of the little stars called asterisks * before and after the sentences.
 

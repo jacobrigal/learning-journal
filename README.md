@@ -13,6 +13,6 @@ It's sort of self explainitory for the pure fact of being fixed. Fundamentally a
 Brains and talent are ***just the starting point***. Growth can and will come through sacrifice, focus, helpful criticism
 Being smart is not something you are or arn't. You can get smarter!
 
-Final thoughts/reminders: ***"Try harder!"***
-***Trying harder is growing***
-***Fixed is foolish***
+Final thoughts/reminders: ***"Try harder!  "***
+***Trying harder is growing.  ***
+***Fixed is foolish.***

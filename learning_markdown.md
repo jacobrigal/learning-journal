@@ -28,7 +28,7 @@ Moving on to links. They simply take you to another page (underlined, blue and c
 
 So what is the main lesson from all this? Learning Markdown is as simple as following cookbook instructions. In this case the main recipes are found here: [This is the payload](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
 
-Now just navigate to your GitHub Pages page and view the Markdown majesty on a real, live, down, marked, mark downed website! Mine would be found here at this link: https://jacobrigal.github.io/learning_markdown.html/
+Now just navigate to your GitHub Pages page and view the Markdown majesty on a real, live, markdowned website! This page is found here at this link: https://jacobrigal.github.io/learning_markdown.html/ but your will have your own repository name at the beginning, and whatever you called this .md file, but with .html as the file name instead.
 
 And remember, once you master the easy stuff, you can master the harder stuff like tables: 
 
@@ -37,7 +37,7 @@ And remember, once you master the easy stuff, you can master the harder stuff li
 | code | instruct machine |
 | cables | connect machines |
 
-Now this might seem complicated but it's not. All you have to do is find the key that has a vertical line on it above the enter/return key, usally. Hold control and hit that key (on a new line, no spaces). Then on the same line enclose the name of the first column within these lines after a space before and after (called pipes):
+Now this might seem complicated but it's not. All you have to do is find the key that has a vertical line on it above the enter/return key, usually. Hold control and hit that key (on a new line, no spaces). Then on the same line enclose the name of the first column within these lines after a space before and after (called pipes):
 
 `| What | Why |`
 

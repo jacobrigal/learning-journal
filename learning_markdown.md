@@ -11,7 +11,7 @@ It should look like this:
 
 [x]
 
-Then hit space and name your list item. Hit return and repeat the process. Remember, no x if it's not done! 
+Then hit space and name your list item. Hit return and repeat the process. Remember, no x if it's not done! The [x] ends up looking like a checked box: 
 
 - [x] Learn what brackets are.
 - [ ] Watch the Brak show.:laughing: 

@@ -1,5 +1,6 @@
 ## Hi, I'm Jacob. I'm a coder trying harder.
 [GitHub portfolio page](https://github.com/jacobrigal)
+
 [For Markdown Newbies](https://jacobrigal.github.io/learning-journal/learning_markdown.html)
 
 ## Mindsets

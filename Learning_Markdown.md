@@ -26,4 +26,17 @@ FYI I made that security alert really big in Markdown by adding six of the littl
 
 Moving on to links. They simply take you to another page (underlined, blue and clickable ringing a bell?). Use the fun brackets to name the link [link goes here] then without hitting space put some good old parentheses and paste that link between 'em (www.duckduckgo.com) which will actually be hidden on your website. 
 
-So what is the main lesson from all this? Learning Markdown is as simple as following cookbook instructions. In this case the main recipes are found here: [This is the payload](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+So what is the main lesson from all this? Learning Markdown is as simple as following cookbook instructions. In this case the main recipes are found here: [This is the payload](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
+
+Now just navigate to your GitHub Pages page and view the Markdown majesty on a real, live, down, marked, mark downed website! Mine would be found here at this link: https://jacobrigal.github.io/Learning_Markdown.md/
+
+And remember, once you master the easy stuff, you can master the harder stuff like tables: 
+
+| What     | Why       |
+|This is a | Organized!|
+| Table    | Hip!      |
+
+Now this might seem complicated but it's not. All you have to do is find the key that has a vertical line on it above the enter/return key, usally. Hold control and hit that key (on a new line no spaces). Then on the same line enclose the name of the first column within these lines (called pipes). That's only the top row that names the columns. After this you will have to put all the pips under eachother to create the walls of the table. There is no need to create the side to side lines of the table because good 'ol Markdown will do it for ye! 
+
+Ok, that's enough. Your tired. Have some OJ or a pear.
+

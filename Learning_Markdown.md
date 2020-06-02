@@ -32,11 +32,22 @@ Now just navigate to your GitHub Pages page and view the Markdown majesty on a r
 
 And remember, once you master the easy stuff, you can master the harder stuff like tables: 
 
-| What     | Why       |
-|This is a | Organized!|
-| Table    | Hip!      |
+| What | Why |
+| --- | --- |
+|This is a | Organized! |
+| Table | Hip! |
 
-Now this might seem complicated but it's not. All you have to do is find the key that has a vertical line on it above the enter/return key, usally. Hold control and hit that key (on a new line no spaces). Then on the same line enclose the name of the first column within these lines (called pipes). That's only the top row that names the columns. After this you will have to put all the pips under eachother to create the walls of the table. There is no need to create the side to side lines of the table because good 'ol Markdown will do it for ye! 
+Now this might seem complicated but it's not. All you have to do is find the key that has a vertical line on it above the enter/return key, usally. Hold control and hit that key (on a new line, no spaces). Then on the same line enclose the name of the first column within these lines after a space before and after (called pipes):
+
+| What |
+
+That's only the top row that names the columns. To make it look like the top row that tells you what's in the columns, put this on the second line: 
+
+| --- | --- | 
+
+Remember to get the spacing right.  
+
+Now add the columns you need. Just don't add more or less than the number of table headers you defined at the beginning. 
 
 Ok, that's enough. Your tired. Have some OJ or a pear.
 

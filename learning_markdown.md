@@ -34,8 +34,8 @@ And remember, once you master the easy stuff, you can master the harder stuff li
 
 | What | Why |
 | --- | --- |
-|This is a | Organized! |
-| Table | Hip! |
+| code | instruct machine |
+| cables | connect machines |
 
 Now this might seem complicated but it's not. All you have to do is find the key that has a vertical line on it above the enter/return key, usally. Hold control and hit that key (on a new line, no spaces). Then on the same line enclose the name of the first column within these lines after a space before and after (called pipes):
 
@@ -49,8 +49,9 @@ Remember to get the spacing right.
 
 Now add the columns you need. Just don't add more or less than the number of table headers you defined at the beginning:
 
-`|This is a | Organized! |
-| Table | Hip! |`
+`| code | instruct machine |
+
+| cables | connect machines |`
 
 Ok, that's enough. You're tired. Have some OJ or a pear.
 

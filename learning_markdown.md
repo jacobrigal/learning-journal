@@ -20,9 +20,13 @@ Learning Markdown is as simple as following cookbook instructions. In this case 
 
 ## Security alert: You should only click a trusted link. But it's ok, you can trust me...Which is what they all say!
 
-FYI that line above actually started linke this in Markdown:
+FYI that line above actually started like this in Markdown:
 
-`## ` and don't forget to put a space after the hash. This is the case with most Markdown signs that do things. Not brackets, parentheses, or those backwards apostrophes we call ticks,  though! 
+`## ` 
+
+Don't forget to put a space after the hash. This is the case with most Markdown signs that do things. Otherwise they won't work. Not so with brackets, parentheses, or those backwards apostrophes we call tick marks,  though! 
+
+`Tick marks before and behind your text actually make text appear just like these words do in this funny typewriter font. It's called inline. You may want to use it for examples or for computer code itself.`
 
 Moving on to links. They simply take you to another page (underlined, blue and clickable ringing a bell?). Use the fun brackets to name the link `[link goes here]` then without hitting space put some good old parentheses and paste that link between 'em `(www.duckduckgo.com)` which will actually be hidden on your website. 
 
@@ -30,7 +34,7 @@ Moving on to links. They simply take you to another page (underlined, blue and c
 
 And now pulling back the curtain: 
 
-`[Hover over this link to see if it's legit. You can read it in the bottom left hand corner of your browser as being a trusted domain](google.com)`
+`[Hover over this link to see if it's legit. You can read it in the bottom left hand corner of your browser as being a trusted domain](https://www.google.com)`
 
 And remember, once you master the easy stuff, you can master the harder stuff like tables: 
 

@@ -1,7 +1,10 @@
 ## Hi, I'm Jacob. I'm a coder trying harder.
+
 [GitHub portfolio page](https://github.com/jacobrigal)
 
-[For Markdown Newbies](https://jacobrigal.github.io/learning-journal/learning_markdown.html)
+[Mindsets](https://jacobrigal.github.io/learning-journal/mindsets.html)
+
+[For Markdown Beginners](https://jacobrigal.github.io/learning-journal/learning_markdown.html)
 
 ## Mindsets
 
@@ -11,7 +14,7 @@ There are two main mindsets to consider:
  
 ###### Fixed mindset
 
-It's sort of self explainitory for the pure fact of being fixed. Fundamentally a nature above nurture approach. Your intelligence, ability, and growth capacity is viewed as fixed. This person sees themselves as stuck in place! 
+It's sort of self explanitory for the pure fact of being fixed. Fundamentally a nature above nurture approach. Your intelligence, ability, and growth capacity is viewed as fixed. This person sees themselves as stuck in place! 
 
 # **_Growth mindset_** 
 

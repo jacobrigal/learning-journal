@@ -3,7 +3,7 @@
 
 ## Mindsets
 
-**Mindset** is a *self theory*. It sounds ~very~ meta but I think it's important to take stock of yourself to honestly grow. 
+**Mindset** is a *self theory*. It sounds ~~very~~ meta but I think it's important to take stock of yourself to honestly grow. 
 
 There are two main mindsets to consider:
  

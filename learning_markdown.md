@@ -7,14 +7,16 @@ It's just typing a few simple characters like # or * before and/or after the tex
 
 Say you want to check items off a list. On a new line enter a dash, then a space, then a left-side bracket (it's next to the p key). Then enter a lower case x and a right-side bracket (hopefully you've found that by now). 
 
-It should look like this:
-
-[x]
-
 Then hit space and name your list item. Hit return and repeat the process. Remember, no x if it's not done! The [x] ends up looking like a checked box: 
 
 - [x] Learn what brackets are.
 - [ ] Watch the Brak show.
+
+Behind the scenes:
+
+`- [x] Learn what brackets are.`
+<br>
+`- [ ] Watch the Brak show.`
 
 Learning Markdown is as simple as following cookbook instructions. In this case the main recipes are found here: [This is the payload](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
 

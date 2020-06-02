@@ -49,7 +49,7 @@ Remember to get the spacing right.
 
 Now add the columns you need. Just don't add more or less than the number of table headers you defined at the beginning:
 
-`| code | instruct machine |
+`| code | instruct machine | <p>
 | cables | connect machines |`
 
 The whole thing should look like this:

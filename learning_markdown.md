@@ -24,13 +24,13 @@ FYI that line above actually started linke this in Markdown:
 
 `## ` and don't forget to put a space after the hash. This is the case with most Markdown signs that do things. Not brackets, parentheses, or those backwards apostrophes we call ticks,  though! 
 
-Moving on to links. They simply take you to another page (underlined, blue and clickable ringing a bell?). Use the fun brackets to name the link [link goes here] then without hitting space put some good old parentheses and paste that link between 'em (www.duckduckgo.com) which will actually be hidden on your website. 
+Moving on to links. They simply take you to another page (underlined, blue and clickable ringing a bell?). Use the fun brackets to name the link `[link goes here]` then without hitting space put some good old parentheses and paste that link between 'em `(www.duckduckgo.com)` which will actually be hidden on your website. 
 
-[Hover over this link to see if it's legit. You can read it in the bottom left hand corner of your browser as being a trusted domain](google.com)
+[Hover over this link to see if it's legit. You can read it in the bottom left hand corner of your browser.](https://www.google.com)
 
 And now pulling back the curtain: 
 
-`[Hover over this link to see if it's legit. You can read it in the bottom left hand corner of your browser as being a trusted domain]](google.com)`
+`[Hover over this link to see if it's legit. You can read it in the bottom left hand corner of your browser as being a trusted domain](google.com)`
 
 And remember, once you master the easy stuff, you can master the harder stuff like tables: 
 

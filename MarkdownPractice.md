@@ -1,4 +1,4 @@
-# Jacob's Pracitce Markdown File
+# Jacob's Practice Markdown File
 
 
 1. Markdown

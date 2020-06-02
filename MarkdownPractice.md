@@ -1,4 +1,4 @@
-# Jacob's Learning Journal 
+# Jacob's Pracitce Markdown File
 
 
 1. Markdown

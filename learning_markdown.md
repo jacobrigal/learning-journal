@@ -50,15 +50,14 @@ Remember to get the spacing right.
 Now add the columns you need. Just don't add more or less than the number of table headers you defined at the beginning:
 
 `| code | instruct machine |`
-
 `| cables | connect machines |`
 
 The whole thing should look like this:
 
-`| What | Why |
-| --- | --- |
-| code | instruct machine |
-| cables | connect machines |`
+`| What | Why |`
+`| --- | --- |`
+`| code | instruct machine |`
+`| cables | connect machines |`
 
 Ok, that's enough.
 

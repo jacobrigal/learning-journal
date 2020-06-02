@@ -28,7 +28,7 @@ Moving on to links. They simply take you to another page (underlined, blue and c
 
 So what is the main lesson from all this? Learning Markdown is as simple as following cookbook instructions. In this case the main recipes are found here: [This is the payload](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
 
-Now just navigate to your GitHub Pages page and view the Markdown majesty on a real, live, down, marked, mark downed website! Mine would be found here at this link: https://jacobrigal.github.io/Learning_Markdown.md/
+Now just navigate to your GitHub Pages page and view the Markdown majesty on a real, live, down, marked, mark downed website! Mine would be found here at this link: https://jacobrigal.github.io/learning_markdown.html/
 
 And remember, once you master the easy stuff, you can master the harder stuff like tables: 
 
@@ -54,8 +54,8 @@ Now add the columns you need. Just don't add more or less than the number of tab
 
 The whole thing should look like this:
 
-`| What | Why |
-| --- | --- |
+`| What | Why |` <br>
+`| --- | --- |` <br>
 | code | instruct machine |
 | cables | connect machines |`
 

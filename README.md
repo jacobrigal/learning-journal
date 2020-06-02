@@ -14,5 +14,5 @@ Brains and talent are ***just the starting point***. Growth can and will come th
 Being smart is not something you are or arn't. You can get smarter!
 
 Final thoughts/reminders: ***"Try harder!  "***
-***Trying harder is growing.  ***
+***Trying harder is growing.***
 ***Fixed is foolish.***

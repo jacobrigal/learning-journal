@@ -1,3 +1,6 @@
+## Hi, I'm Jacob. I'm a coder trying harder.
+github.com/jacobrigal/
+
 ## Mindsets
 
 **Mindset** is a *self theory*. It sounds ~very~ meta but I think it's important to take stock of yourself to honestly grow. 

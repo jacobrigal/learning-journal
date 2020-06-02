@@ -28,7 +28,7 @@ Don't forget to put a space after the hash. This is the case with most Markdown 
 
 `Tick marks before and behind your text actually make text appear just like these words do in this funny typewriter font. It's called inline. You may want to use it for examples or for computer code itself.`
 
-Moving on to links. They simply take you to another page (underlined, blue and clickable ringing a bell?). Use the fun brackets to name the link `[link goes here]` then without hitting space put some good old parentheses and paste that link between 'em `(www.duckduckgo.com)` which will actually be hidden on your website. 
+Moving on to links. They simply take you to another page (underlined, blue and clickable ringing a bell?). Use the fun brackets to name the link `[link goes here]` then without hitting space put some good old parentheses and paste that link between 'em `(https://www.duckduckgo.com)` which will actually be hidden upon display. 
 
 [Hover over this link to see if it's legit. You can read it in the bottom left hand corner of your browser.](https://www.google.com)
 

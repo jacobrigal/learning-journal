@@ -6,4 +6,8 @@ I also learned how to add new files on VSC as well as set up instant commits in 
 
 Also used `git status` command to check what has been added to the master repo after editing files. Remember to save in VSC! 
 
+Also, don't forget to use the source control section (icon with three circles linked) to commit files to local repo. 
+
+Also, in commit message, tell why you made the change!
+
 Note to self: these commits only commit locally. Don't forget to add the edited files back to the master branch using git commands. 

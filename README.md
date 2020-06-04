@@ -12,4 +12,4 @@
 
 ![A famous actor from the film Superbad running in sweats and saying, "I try really hard, actually."](/tryinghard.jpg/)
 
-
+> ***"Try harder!  "***

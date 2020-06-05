@@ -28,10 +28,9 @@ Git is a version control system (VCS) originally developed by the chief architec
  + Add a file to the global (shared) repository:
 
         git add [file name]
+ 
 
-Push all commited local repo files to the master repo branch. 
-
-+ add all the files in your local repo to the global repo:
++ Publish the files in your local repo to the global repo:
           
       git push
 

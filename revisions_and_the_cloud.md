@@ -38,3 +38,11 @@ Push all commited local repo files to the master repo branch.
 + Merge versions:
     
       git merge 
+
++ Show modified files yet to be added to the cloud, status of your local branch compared to master branch: 
+
+      git status 
+
++ Restore previous version of a file in the working directory on your local machine: 
+
+      git restore [file]

@@ -23,4 +23,42 @@ A lot also depends on your personal preference.
 
 Because you will spend a lot of time coding any major project, choosing editors you like will make the process more enjoyable and smoother.
 
-If just starting out, a simpler editor might be for you so as not to overwhelm you. Then you can step up to more complex and comprehensive editors and your needs and breadth of understanding increase.
+If just starting out, a simpler editor might be for you so as not to overwhelm you. Then you can step up to more complex and comprehensive editors aד your needs and breadth of understanding increase.
+
+## Basic terminal commands:
+
++ `cd []` change directory/folder
+
+>`cd OneDrive/desktop/coding/learning-journal`
+
++ `ls` show files in a directory/folder you in/have changed into with `cd`.
+
++ `ls -a` shows hidden files.
+
+> `jacob$ ~/OneDrive/Desktop/coding
+$ ls learning-journal
+_config.yml         learning_markdown.md  mindsets.md  today6-4.md
+coders_computer.md  LICENSE               README.md    tryinghard.jpg
+`
+
++ `~` replaces home directory name.
+
++ `file` shows file info such as type of file. 
+
+> 
+
++ `pwd` shows the name of the home directory.
+
+> `jacob$ ~$ file /home/jacob/
+/home/jacob/: directory
+`
+
+## Bonus: how to get into the Windows C drive using WSL: 
+
+> `~$ cd /mnt/c/Users/jacob
+jacob$ cd /mnt/c/Users/jacob/OneDrive/`
+
+`mnt` = mount
+
+
+

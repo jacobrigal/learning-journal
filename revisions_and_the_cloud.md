@@ -21,14 +21,13 @@ Git is a version control system (VCS) originally developed by the chief architec
 
       git config --global user.email "emailyousignedupwith@love.yourself" 
 
-+ Commit a file to the local repo (on your computer): 
++ Add a file to the index (local repo):
+
+      git add [file name]
+
++ Commit a file to the global repo: 
 
       commit [file name]
-
- + Add a file to the global (shared) repository:
-
-        git add [file name]
- 
 
 + Publish the files in your local repo to the global repo:
           
@@ -84,7 +83,7 @@ Git is a version control system (VCS) originally developed by the chief architec
       
       Initialize and modify the sparse-checkout
 
-      examine the history and state (see also: git help revisions)
+      Examine the history and state (see also: git help revisions)
 
       bisect            
       Use binary search to find the commit that introduced a bug

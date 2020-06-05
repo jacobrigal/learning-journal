@@ -10,7 +10,7 @@
 
 [The Coder's Computer](https://jacobrigal.github.io/learning-journal/coders_computer.html)
 
-[Revisions and the Cloud]((https://jacobrigal.github.io/learning-journal/revisions_and_the_cloud.html)
+[Revisions and the Cloud](https://jacobrigal.github.io/learning-journal/revisions_and_the_cloud.html)
 )
 
 > ***"Try harder!  "***

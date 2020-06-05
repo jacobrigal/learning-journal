@@ -1,3 +1,14 @@
+
+## Coder's Computer: what I installed. 
+
++ VS Code (a great text editor described in the next section)
+
++ Ubuntu for WSL (this is the Windows Subsystem for Linux. It requires WSL first be enabled and installed via Settings>Apps>Apps & Features>Related Features (click Programs and Features)>turn windows features on and off (in left panel)
+<br> Then scroll down to Windows Subsystem for Linux, check the box, click ok, and restart.
+
++ Git Bash for Windows (So I can run git commands on Windows)
+
+
 ## Types of text editors:
 
 > Third Party Options <br>(these don't come with standard the standard operating systems) 

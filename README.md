@@ -10,6 +10,9 @@
 
 [The Coder's Computer](https://jacobrigal.github.io/learning-journal/coders_computer.html)
 
+[Revisions and the Cloud]((https://jacobrigal.github.io/learning-journal/revisions_and_the_cloud.html)
+)
+
 > ***"Try harder!  "***
 
 ![A famous actor from the film Superbad running in sweats and saying, "I try really hard, actually."](/tryinghard.jpg/)

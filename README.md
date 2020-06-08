@@ -14,6 +14,8 @@
 
 [Structuring Webpages with HTML](https://jacobrigal.github.io/learning-journal/structure_webpages_with_html.html)
 
+[Styling Webpages with CSS](https://jacobrigal.github.io/learning-journal/style_webpages_with_css.html)
+
 
 > ***"Try harder!  "***
 

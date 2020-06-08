@@ -12,6 +12,8 @@
 
 [Revisions and the Cloud](https://jacobrigal.github.io/learning-journal/revisions_and_the_cloud.html)
 
+[Structuring Webpages with HTML](https://jacobrigal.github.io/learning-journal/structuring_webpages_with_html.html)
+
 
 > ***"Try harder!  "***
 

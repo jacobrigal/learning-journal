@@ -18,6 +18,8 @@
 
 [Creating Dynamic Pages with JavaScript](https://jacobrigal.github.io/learning-journal/dynamic_webpages_with_javascript.html)
 
+[Computer Architecture and JavaScript Data Types](https://jacobrigal.github.io/learning-journal/computer_architecture_and_logic.html)
+
 > ***"Try harder!  "***
 
 ![A famous actor from the film Superbad running in sweats and saying, "I try really hard, actually."](tryinghard.jpg)

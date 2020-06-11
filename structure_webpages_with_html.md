@@ -10,7 +10,7 @@ Writing code should actually be the last step in the process. First you should a
 
 4. As part of the ongoing development process, create a Slack message group to continue to communicate, as the development process will be spread over a period of time to be determined. This will also facilitate code-sharing. 
 
-## Helpful allegories (HTML, CSS, JS)
+## Helpful analogies (HTML, CSS, JS)
 
 1. HTML (HyperText Markup Language) is the skeleton of the body. It forms the core structure that is essential for the appearance and functioning of the body. 
 <br><br> Alt. = Wooden frame of a house (Allow the house to stand in the firstplace in order build other things on top of the frame). 
@@ -40,8 +40,10 @@ Writing code should actually be the last step in the process. First you should a
 HTML boilerplate (the most basic skeleton of HTML): 
 
     <!DOCTYPE html>
+    <html>
         <head>
             <title></title>
+            <link rel="stylesheet" href="styles.css">
         </head>
         <body>
             <script></script>

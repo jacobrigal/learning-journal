@@ -20,7 +20,7 @@
 
 [Computer Architecture and JavaScript Data Types](https://jacobrigal.github.io/learning-journal/computer_architecture_and_logic.html)
 
-[Programming with JavaScript](https://jacobrigal.github.io/programming_with_javascript.html)
+[Programming with JavaScript](https://jacobrigal.github.io/learning-journal/programming_with_javascript.html)
 
 > ***"Try harder!  "***
 

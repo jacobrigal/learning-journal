@@ -1,5 +1,5 @@
 # Programming with JavaScript
-## What's a script? "A series on short instructions, each of which is performed in order to solve the problem at hand." -Duckett. Analogies:
+## What's a script? "A series of short instructions, each of which is performed in order to solve the problem at hand." -Duckett. Analogies:
 + Recipes. Step-by-step instructions, new terms.
 + Handbook. Protocol for certain situations/scenarios. You only need to follow the steps for that case.
 + Manual. A series of tests carried out step-by-step.

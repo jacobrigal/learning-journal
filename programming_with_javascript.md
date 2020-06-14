@@ -16,7 +16,7 @@
 + Arithmetic operators. Basic math: `total = 4 + 4;` These are `+ - * /` plus, minus, multiply, divide, and `++, --, %`, increment (adds one to the current number), decrement, modulus (shows remainder after division of numbers). 
 + String operators. Combine (concatenate) two text values with a `+`: `hi = 'hi' + 'Tim!';`
 + Comparison operators. Greater than, less than, etc. Returns true or false. 
-+ Logical operators. Combine values and return true or false. Example `&&` (AND), `|` (OR),  
++ Logical operators. Combine values and return true or false. Example `&&` (AND), `||` (OR),  
 
 ## Expressions 
 + Evaluate to one value.

@@ -98,6 +98,20 @@ The logged output (if coded to log to console) would be:
          number is 8
          number is 9
 
+## `do` while loop
+
+        do {
+        // code block to be executed
+        }
+        while (condition);
+
+Example:
+
+        do {
+            text += "The number is " + i;
+            i++;
+        }
+while (i < 10);
 
 ## `for` 
 Instead of writing:

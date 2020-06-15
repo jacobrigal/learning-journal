@@ -22,7 +22,7 @@
 
 [Programming with JavaScript](https://jacobrigal.github.io/learning-journal/programming_with_javascript.html)
 
-[Operators and Loops)((https://jacobrigal.github.io/learning-journal/operators_and_loops.html)
+[Operators and Loops)(https://jacobrigal.github.io/learning-journal/operators_and_loops.html)
 
 > ***"Try harder!  "***
 

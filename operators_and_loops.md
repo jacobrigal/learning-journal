@@ -10,8 +10,7 @@ As for emotions, I suppose they are kind of like, to use a very basic analogy, l
 
 Emotions also help guide the AI, because it responds to human emotions detected as input. 
 
-    dark side is that an AI can be instructed, code-wise, based on certain input, or not, to display hate or anger, or to instill it. If the programmer chooses the right logical operators, code, neural net framework, etc., or if the code behaves in an unexpected way, it has been ethically compromised, potentially. 
-
+The dark side is that an AI can be instructed, code-wise, based on certain input, or not, to display hate or anger, or to instill it. If the programmer chooses the right logical operators, code, neural net framework, etc., or if the code behaves in an unexpected way, it has been ethically compromised, potentially. 
 
 We expect that the code impoyed by AI has been vetted and refactored to be beyond reproach, beyond hacking, perhaps by Tony Robbins himself (lol!). Perhaps we can only pray and code, friends, and stay aware of ethical infosec principles in software development (information security). But the issues here speak volumes to the need for inpired, rigorous coding in our day and age more than ever. 
 

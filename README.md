@@ -22,6 +22,8 @@
 
 [Programming with JavaScript](https://jacobrigal.github.io/learning-journal/programming_with_javascript.html)
 
+[Operators and Loops)((https://jacobrigal.github.io/learning-journal/operators_and_loops.html)
+
 > ***"Try harder!  "***
 
 ![A famous actor from the film Superbad running in sweats and saying, "I try really hard, actually."](tryinghard.jpg)

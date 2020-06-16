@@ -31,7 +31,7 @@
 
 ## Course 201 Reading Notes
 
-[Basic HTML Structure ](https://jacobrigal.github.io/learning-journal/structure_webpages_with_html.html)
+[Basic HTML Structure ](https://jacobrigal.github.io/learning-journal/html_javascript_review.html)
 
 <br>
 

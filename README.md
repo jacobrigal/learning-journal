@@ -2,6 +2,9 @@
 
 ## Hi, I'm Jacob. I'm a security minded coder trying harder. 
 
+(102) Entries:
+
+
 [GitHub portfolio page](https://github.com/jacobrigal)
 
 [Mindsets](https://jacobrigal.github.io/learning-journal/mindsets.html)
@@ -25,6 +28,12 @@
 [Programming with JavaScript](https://jacobrigal.github.io/learning-journal/programming_with_javascript.html)
 
 [Operators and Loops](https://jacobrigal.github.io/learning-journal/operators_and_loops.html)
+
+(201) entries:
+
+[Basic HTML Structure ](https://jacobrigal.github.io/learning-journal/structure_webpages_with_html.html)
+
+<br>
 
 > ***"Try harder!  "***
 

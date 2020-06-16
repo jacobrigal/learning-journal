@@ -3,7 +3,7 @@ Text, images, or other media will be presented on a webpage. Structuring and for
 
 ## Elements
 
-![An important page from Duckett](structure_ducket_22.png)
+![An important page from Duckett](structure_ducket_22.PNG)
 
 > source, pg. 22: <u>HTML and CSS: Design and Build Websites</u> by John Duckett
 
@@ -37,7 +37,7 @@ Most webpages will more than just html pages, which will need to be referenced i
 
 Complete resource of all the attributes from w3 schools: [The full set.](https://www.w3schools.com/tags/ref_attributes.asp)
 
-![Doc Types](html_doctypes.png)
+![Doc Types](html_doctypes.PNG)
 
 > source, p. 181: <u>HTML and CSS: Design and Build Websites</u> by John Duckett
 

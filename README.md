@@ -1,3 +1,5 @@
+# Coding Journal (102, 201)
+
 ## Hi, I'm Jacob. I'm a security minded coder trying harder. 
 
 [GitHub portfolio page](https://github.com/jacobrigal)

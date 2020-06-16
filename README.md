@@ -29,7 +29,7 @@
 
 [Operators and Loops](https://jacobrigal.github.io/learning-journal/operators_and_loops.html)
 
-(201) entries:
+## Course 201 Reading Notes
 
 [Basic HTML Structure ](https://jacobrigal.github.io/learning-journal/structure_webpages_with_html.html)
 

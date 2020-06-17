@@ -2,7 +2,7 @@
 
 ## Hi, I'm Jacob. I'm a security minded coder trying harder. 
 
-(102) Entries:
+## (102) Entries:
 
 
 [GitHub portfolio page](https://github.com/jacobrigal)
@@ -32,6 +32,8 @@
 ## Course 201 Reading Notes
 
 [Basic HTML Structure ](https://jacobrigal.github.io/learning-journal/class-01.html)
+
+[HTML Markup, CSS, and Basic JavaScript](https://jacobrigal.github.io/learning-journal/class-02.html)
 
 <br>
 

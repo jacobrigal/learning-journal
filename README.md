@@ -52,5 +52,7 @@
 
 [HTML Markup, CSS, and Basic JavaScript](https://jacobrigal.github.io/learning-journal/class-02.html)
 
+[JavaScript Loops, Type Coercion](https://jacobrigal.github.io/learning-journal/class-03.html)
+
 
 

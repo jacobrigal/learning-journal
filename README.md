@@ -13,6 +13,8 @@
 
 [Cybersecurity](https://jacobrigal.github.io/cyber/index2.html)
 
+[About Me](https://jacobrigal.github.io/myquiz/)
+
 [Hebrew Matthew](https://hebrewmatthew.github.io/text/)
 
 [Smoking Arsenal](https://https://aliasus.github.io/smoking-guns/)

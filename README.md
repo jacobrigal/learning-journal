@@ -1,6 +1,6 @@
 # Learning Journal/Portfolio 
 
-## Hi, I'm Jacob. I'm a security minded coder trying harder. 
+## Hi, I'm Jacob. I'm a security-minded coder trying harder. 
 
 > ***"Try harder!  "***
 

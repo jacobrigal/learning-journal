@@ -1,6 +1,13 @@
-# Coding Journal (102, 201)
+# Learning Journal/Portfolio 
 
 ## Hi, I'm Jacob. I'm a security minded coder trying harder. 
+
+> ***"Try harder!  "***
+
+![A famous actor from the film Superbad running in sweats and saying, "I try really hard, actually."](tryinghard.jpg)
+
+> ***"Try harder!  "***
+
 
 ## Websites:
 
@@ -45,10 +52,5 @@
 
 [HTML Markup, CSS, and Basic JavaScript](https://jacobrigal.github.io/learning-journal/class-02.html)
 
-<br>
 
-> ***"Try harder!  "***
 
-![A famous actor from the film Superbad running in sweats and saying, "I try really hard, actually."](tryinghard.jpg)
-
-> ***"Try harder!  "***

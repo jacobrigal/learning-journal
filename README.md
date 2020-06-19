@@ -17,7 +17,7 @@
 
 [Hebrew Matthew](https://hebrewmatthew.github.io/text/)
 
-[Smoking Arsenal](https://https://aliasus.github.io/smoking-guns/)
+[Smoking Arsenal](https://aliasus.github.io/smoking-guns/)
 
 [American English Masterclass](https://americanenglishmasterclass.com)
 

@@ -2,6 +2,14 @@
 
 ## Hi, I'm Jacob. I'm a security minded coder trying harder. 
 
+## Static websites:
+
+[Cybersecurity](https://jacobrigal.github.io/cyber/index2.html)
+
+[Hebrew Matthew](https://hebrewmatthew.github.io/text/)
+
+[Smoking Arsenal](https://https://aliasus.github.io/smoking-guns/)
+
 ## (102) Entries:
 
 
